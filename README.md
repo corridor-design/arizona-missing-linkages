@@ -3,4 +3,4 @@ The Arizona Missing Linkages project was funded by Arizona Game & Fish Departmen
 
 THe analysis team of conservation biologists and GIS Analysts at Northern Arizona University, and included Paul Beier, Dan Majka, Emily Garding, and Jeff Jenness. 
 
-Reports and data (zipped shapfiles) of each linkage design are included, and can be downloading by clicking the 'Raw' or 'View Raw' buttons after clicking each file. 
+Reports and data (zipped shapfiles) of each linkage design are included. The entire contents of this repository (all reports and data) can be downloaded by clicking the big green button above and selecting 'Download ZIP', or download by selecting reports or data, clicking a file, then clicking the 'Raw' or 'View Raw' buttons after clicking each file. 
